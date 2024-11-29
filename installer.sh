@@ -6,4 +6,3 @@ make
 sudo make install
 cd ..
 rm -fr raspi2png
-raspi2png -H
