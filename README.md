@@ -1,3 +1,5 @@
+# This repository will no longer be updated. The DispmanX API is no longer supported in recent version of the Raspberry Pi OS.
+
 # raspi2png
 
 Utility to take a snapshot of the raspberry pi screen and save it as a PNG file
@@ -23,7 +25,7 @@ curl -sL https://raw.githubusercontent.com/ishkanan/raspi2png/master/installer.s
 
 You will need to install libpng before you build the program. On Raspbian
 
-sudo apt-get install libpng12-dev
+sudo apt install libpng-dev
 
 Then just type 'make' in the raspi2png directory you cloned from github.
 
